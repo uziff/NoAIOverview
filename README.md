@@ -8,4 +8,4 @@ The code generated with AI was generated following SAID methods (please read htt
 
 # How to install
 Extension should be available here:
-https://addons.mozilla.org/it/firefox/addon/noaioverview/
+https://addons.mozilla.org/it/firefox/addon/no-ai-overview/
